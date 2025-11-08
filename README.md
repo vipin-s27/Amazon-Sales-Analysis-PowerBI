@@ -8,7 +8,7 @@ It tracks Year-to-Date (YTD) and Quarter-to-Date (QTD) metrics to help understan
 The goal is to monitor and analyze Amazon product sales across various KPIs to gain insights into revenue performance, product movement, and customer satisfaction.
 
 ## Dataset used
-- <a href="https://github.com/vipin-s27/Amazon-Sales-Analysis-PowerBI/blob/main/Amazon_Sales_RawData.xlsx">Dataset</a> - Contains the raw sales data used to create the dashboard and analyze performance metrics.
+- <a href="https://github.com/vipin-s27/Amazon-Sales-Analysis-PowerBI/blob/main/Amazon_Sales_RawData.xlsx">Dataset</a> - Contains the raw Amazon sales data used to create the dashboard.
 
 ## KPI Requirements
 This dashboard includes four main KPIs to track business performance:
