@@ -27,6 +27,7 @@ The dashboard uses different charts to make the data easy to understand and visu
 
 ## Dashboard
 <img width="1274" height="713" alt="Dashboard Overview" src="https://github.com/user-attachments/assets/88cb7eca-6697-47ab-82ae-90f737e62fdb" />
+
 **Dashboard File** - <a href="https://github.com/vipin-s27/Amazon-Sales-Analysis-PowerBI/blob/main/Amazon-Sales-Dashboard-BI.pbix">View Dashboard File</a>
 
 ## Tools & Technologies Used
